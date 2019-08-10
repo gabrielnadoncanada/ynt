@@ -1,0 +1,17 @@
+{
+    "name": "codex/taskmanager",
+    "description": "manage multiples task",
+    "authors": [
+        {
+            "name": "Gabriel nadon",
+            "email": "gabrielnadoncanada@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "taskmanager\\" : "classes"
+        }
+    }
+
+}
